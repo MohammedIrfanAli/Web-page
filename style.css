@@ -1,0 +1,87 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.max-container {
+    max-width: 960px;
+    padding-left: 85px;
+    padding-right: 85px;
+    margin: auto;
+}
+
+.apprentice-container {
+    max-width: 670px;
+    padding-left: 145px;
+    padding-right: 145px;
+}
+
+/*   PAGE 1 STYLES */
+.storm-title {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.storm-paragraph {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.storm-italic {
+    font-size: 16px;
+    line-height: 24px;
+    font-style: italic;
+}
+
+.question-box-small {
+    background-color: #F3F6FB;
+    padding: 12px;
+    font-size: 14px;
+    border-left: 4px solid #7AA9E8;
+    border-radius: 4px;
+    color: #004A99;
+}
+
+.text-editor-header {
+    background-color: #F5F5F5;
+    padding: 12px;
+    border-radius: 5px 5px 0 0;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+}
+
+.text-editor-body {
+    min-height: 210px;
+    border: 1px solid #ddd;
+    border-top: none;
+    padding: 15px;
+    background: white;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.12);
+}
+
+.next-btn {
+    background-color: #80B7FF !important;
+    padding: 8px 16px !important;
+    border-radius: 5px !important;
+}
+
+/*  PAGE 2 STYLES */
+.fluency-title {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.word-table th, 
+.word-table td {
+    font-size: 16px;
+    padding: 10px;
+}
+
+.timed-table th {
+    font-weight: 700;
+}
+
+.timed-table td {
+    height: 50px;
+}
